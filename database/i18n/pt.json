@@ -8,7 +8,7 @@
       "goToMedals": "Medalhas e Peças",
       "goToImprove": "Tabela melhore seus tempos",
       "goToAnniversary": "Página de Aniversário",
-      "goToWRRiderTemple": "WR-Templo-Pilotos",
+      "goToWRRiderTemple": "Templo dos Recordistas",
       "goToThread": "Ir para o fórum",
       "stats": "Estatísticas",
       "uplayID": "Uplay",
@@ -126,8 +126,8 @@
       "export": "Exportar",
       "password": "Senha",
       "dontAskAgain": "Não pergunte de novo!",
-      "openMyTime": "Open MyTime dialog after saving",
-      "autoExport": "Activate autoexporting"
+      "openMyTime": "Abrir diálogo MeuTempo após salvar",
+      "autoExport": "Ativar auto exportação"
     },
     "placeholder": {
       "newTime": "Seu tempo 0:15.000 -> insira 15000",
@@ -179,8 +179,8 @@
       "backupHeader": "Você quer fazer Backup de seu ID?",
       "enterUserName": "Insira seu nome de usuário para o backup",
       "enterPassword": "Para proteger seu ID. Isso é opicional",
-      "successfullExportedHeader": "Successfull",
-      "successfullExported": "All your data was successfull exported."
+      "successfullExportedHeader": "Sucesso",
+      "successfullExported": "Todos seus dados foram exportados com sucesso."
     },
     "error": {
       "noAccess": "Não foi possível acessar o URL",
